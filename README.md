@@ -1,2 +1,2 @@
-#This is an update from VSC
-example code
+# This is an update from VSC
+example codes
